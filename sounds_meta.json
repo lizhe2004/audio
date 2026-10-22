@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "vine-boom",
+    "file": "sounds/vine-boom.wav",
+    "name": "vine-boom.wav",
+    "title": "经典爆鸣冲击",
+    "enTitle": "Vine Boom",
+    "category": "meme",
+    "tags": [
+      "震撼",
+      "爆鸣",
+      "转场",
+      "高能",
+      "核心梗"
+    ],
+    "desc": "短视频和神剪辑中最常见的震撼灵魂重音音效。",
+    "sizeBytes": 221516,
+    "sizeStr": "216.3 KB",
+    "durationSec": 1.25,
+    "durationStr": "1.3s"
+  },
+  {
+    "id": "bruh",
+    "file": "sounds/bruh.wav",
+    "name": "bruh.wav",
+    "title": "直呼 Bruh 叹气",
+    "enTitle": "Bruh Meme",
+    "category": "meme",
+    "tags": [
+      "叹气",
+      "无语",
+      "名梗",
+      "人声"
+    ],
+    "desc": "表达无语、震惊或尴尬时的经典男声叹气。",
+    "sizeBytes": 110998,
+    "sizeStr": "108.4 KB",
+    "durationSec": 0.63,
+    "durationStr": "0.6s"
+  },
+  {
+    "id": "windows-xp-error",
+    "file": "sounds/windows-xp-error.wav",
+    "name": "windows-xp-error.wav",
+    "title": "Windows XP 报错音",
+    "enTitle": "Windows XP Critical Stop",
+    "category": "meme",
+    "tags": [
+      "系统音",
+      "XP",
+      "报错",
+      "经典童年"
+    ],
+    "desc": "微软 Windows XP 操作系统经典的红叉关键报错提示音。",
+    "sizeBytes": 87630,
+    "sizeStr": "85.6 KB",
+    "durationSec": 0.99,
+    "durationStr": "1.0s"
+  },
+  {
+    "id": "sanctuary-guardian-what",
+    "file": "sounds/sanctuary-guardian-what.wav",
+    "name": "sanctuary-guardian-what.wav",
+    "title": "圣域守卫 What?!",
+    "enTitle": "Sanctuary Guardian What?!",
+    "category": "meme",
+    "tags": [
+      "神级BGM",
+      "What",
+      "问号",
+      "反转"
+    ],
+    "desc": "地球冒险（EarthBound）圣域守卫战魔性前奏，搭配问号表情包使用。",
+    "sizeBytes": 1589326,
+    "sizeStr": "1.52 MB",
+    "durationSec": 9.01,
+    "durationStr": "9.0s"
+  },
+  {
+    "id": "illuminati-confirmed",
+    "file": "sounds/illuminati-confirmed.wav",
+    "name": "illuminati-confirmed.wav",
+    "title": "光明会悬疑三角",
+    "enTitle": "Illuminati / X-Files Theme",
+    "category": "meme",
+    "tags": [
+      "X档案",
+      "阴谋论",
+      "悬疑",
+      "口哨"
+    ],
+    "desc": "X档案经典口哨旋律，常用于神秘悬疑、阴谋论反转视频。",
+    "sizeBytes": 1382666,
+    "sizeStr": "1.32 MB",
+    "durationSec": 7.84,
+    "durationStr": "7.8s"
+  },
+  {
+    "id": "wilhelm-scream",
+    "file": "sounds/wilhelm-scream.wav",
+    "name": "wilhelm-scream.wav",
+    "title": "好莱坞威廉尖叫",
+    "enTitle": "Wilhelm Scream",
+    "category": "meme",
+    "tags": [
+      "电影彩蛋",
+      "经典尖叫",
+      "坠崖",
+      "好莱坞"
+    ],
+    "desc": "电影史上最著名的声效配音之一，被成百上千部好莱坞大片引用。",
+    "sizeBytes": 368718,
+    "sizeStr": "360.1 KB",
+    "durationSec": 2.09,
+    "durationStr": "2.1s"
+  },
+  {
+    "id": "anime-wow",
+    "file": "sounds/anime-wow.wav",
+    "name": "anime-wow.wav",
+    "title": "动漫女生惊叹 Wow~",
+    "enTitle": "Anime Wow",
+    "category": "meme",
+    "tags": [
+      "动漫",
+      "女生",
+      "惊叹",
+      "萌系",
+      "Wow"
+    ],
+    "desc": "经典二次元动漫少女高八度可爱惊呼 Wow。",
+    "sizeBytes": 737358,
+    "sizeStr": "720.1 KB",
+    "durationSec": 4.18,
+    "durationStr": "4.2s"
+  },
+  {
+    "id": "yippee",
+    "file": "sounds/yippee.wav",
+    "name": "yippee.wav",
+    "title": "欢呼 Yippee!",
+    "enTitle": "TBH Creature Yippee",
+    "category": "meme",
+    "tags": [
+      "庆祝",
+      "欢呼",
+      "快乐",
+      "自闭小狗"
+    ],
+    "desc": "网络名梗 TBH Creature 喝可乐并大喊 Yippee 的欢快童声。",
+    "sizeBytes": 467166,
+    "sizeStr": "456.2 KB",
+    "durationSec": 2.65,
+    "durationStr": "2.6s"
+  },
+  {
+    "id": "spongebob-fail",
+    "file": "sounds/spongebob-fail.wav",
+    "name": "spongebob-fail.wav",
+    "title": "海绵宝宝沮丧长号",
+    "enTitle": "SpongeBob Fail",
+    "category": "meme",
+    "tags": [
+      "失败",
+      "长号",
+      "卡通",
+      "沮丧"
+    ],
+    "desc": "海绵宝宝中经典的凄惨滑稽长号声，专门在人物受挫时播放。",
+    "sizeBytes": 597032,
+    "sizeStr": "583.0 KB",
+    "durationSec": 3.38,
+    "durationStr": "3.4s"
+  },
+  {
+    "id": "price-is-right-fail",
+    "file": "sounds/price-is-right-fail.wav",
+    "name": "price-is-right-fail.wav",
+    "title": "价格猜错尴尬滑稽长号",
+    "enTitle": "Price is Right Fail Horn",
+    "category": "meme",
+    "tags": [
+      "尴尬",
+      "大失败",
+      "滑稽",
+      "综艺"
+    ],
+    "desc": "经典美综《The Price Is Right》猜错出局时的凄凉号声。",
+    "sizeBytes": 797276,
+    "sizeStr": "778.6 KB",
+    "durationSec": 4.52,
+    "durationStr": "4.5s"
+  },
+  {
+    "id": "romance-meme",
+    "file": "sounds/romance-meme.wav",
+    "name": "romance-meme.wav",
+    "title": "浪漫深情萨克斯",
+    "enTitle": "Careless Whisper Sax Riff",
+    "category": "meme",
+    "tags": [
+      "萨克斯",
+      "浪漫",
+      "深情",
+      "慢动作",
+      "BGM"
+    ],
+    "desc": "名曲 Careless Whisper 萨克斯独奏，情侣对视、意外擦出火花必用。",
+    "sizeBytes": 1024962,
+    "sizeStr": "1000.9 KB",
+    "durationSec": 5.81,
+    "durationStr": "5.8s"
+  },
+  {
+    "id": "minecraft-hurt",
+    "file": "sounds/minecraft-hurt.wav",
+    "name": "minecraft-hurt.wav",
+    "title": "我的世界经典受击音",
+    "enTitle": "Minecraft Classic Hurt (Oof)",
+    "category": "meme",
+    "tags": [
+      "Minecraft",
+      "游戏",
+      "骨折",
+      "Oof"
+    ],
+    "desc": "Minecraft 早期版本史蒂夫骨折/挨打时的经典浑厚 Oof 受击声。",
+    "sizeBytes": 64628,
+    "sizeStr": "63.1 KB",
+    "durationSec": 0.37,
+    "durationStr": "0.4s"
+  },
+  {
+    "id": "skedaddle",
+    "file": "sounds/skedaddle.wav",
+    "name": "skedaddle.wav",
+    "title": "卡通飞奔溜走",
+    "enTitle": "Cartoon Skedaddle Running",
+    "category": "meme",
+    "tags": [
+      "卡通",
+      "飞奔",
+      "逃跑",
+      "滑稽"
+    ],
+    "desc": "经典手绘动画片角色原地蓄力旋转双腿然后飞奔溜走的声效。",
+    "sizeBytes": 1155150,
+    "sizeStr": "1.10 MB",
+    "durationSec": 6.55,
+    "durationStr": "6.5s"
+  },
+  {
+    "id": "oh-my-god-vine",
+    "file": "sounds/oh-my-god-vine.wav",
+    "name": "oh-my-god-vine.wav",
+    "title": "Oh My God 惊呼",
+    "enTitle": "Oh My God Vine",
+    "category": "meme",
+    "tags": [
+      "惊呼",
+      "人声",
+      "OMG",
+      "爆笑"
+    ],
+    "desc": "极具辨识度的搞笑尖叫人声 Oh My F**king God。",
+    "sizeBytes": 285014,
+    "sizeStr": "278.3 KB",
+    "durationSec": 1.62,
+    "durationStr": "1.6s"
+  },
+  {
+    "id": "omg-hell-nah",
+    "file": "sounds/omg-hell-nah.wav",
+    "name": "omg-hell-nah.wav",
+    "title": "Hell Nah 绝不可能",
+    "enTitle": "Oh My God Hell Nah",
+    "category": "meme",
+    "tags": [
+      "人声",
+      "拒绝",
+      "搞笑",
+      "破防"
+    ],
+    "desc": "夸张魔性黑人男声：Oh hell nah man what the fuck。",
+    "sizeBytes": 776526,
+    "sizeStr": "758.3 KB",
+    "durationSec": 4.4,
+    "durationStr": "4.4s"
+  },
+  {
+    "id": "nelly-ahh",
+    "file": "sounds/nelly-ahh.wav",
+    "name": "nelly-ahh.wav",
+    "title": "Nelly Ahh 搞怪人声",
+    "enTitle": "Nelly Ahh Sound",
+    "category": "meme",
+    "tags": [
+      "魔性",
+      "搞笑",
+      "人声",
+      "短视频"
+    ],
+    "desc": "短视频常见的魔性升调搞怪喊叫声。",
+    "sizeBytes": 258170,
+    "sizeStr": "252.1 KB",
+    "durationSec": 1.46,
+    "durationStr": "1.5s"
+  },
+  {
+    "id": "fah",
+    "file": "sounds/fah.wav",
+    "name": "fah.wav",
+    "title": "搞怪急促发音 Fah",
+    "enTitle": "Fah Pop",
+    "category": "meme",
+    "tags": [
+      "短促",
+      "搞怪",
+      "打脸",
+      "魔性"
+    ],
+    "desc": "短促滑稽的人声爆炸发音。",
+    "sizeBytes": 340042,
+    "sizeStr": "332.1 KB",
+    "durationSec": 1.93,
+    "durationStr": "1.9s"
+  },
+  {
+    "id": "triggered",
+    "file": "sounds/triggered.wav",
+    "name": "triggered.wav",
+    "title": "红温破防警报",
+    "enTitle": "Triggered Alarm Siren",
+    "category": "meme",
+    "tags": [
+      "红温",
+      "破防",
+      "警报",
+      "急促"
+    ],
+    "desc": "画面变红震动、人物陷入红温破防状态时的警报蜂鸣。",
+    "sizeBytes": 122958,
+    "sizeStr": "120.1 KB",
+    "durationSec": 0.7,
+    "durationStr": "0.7s"
+  },
+  {
+    "id": "whoosh",
+    "file": "sounds/whoosh.wav",
+    "name": "whoosh.wav",
+    "title": "呼啸转场 (Whoosh)",
+    "enTitle": "Quick Whoosh Transition",
+    "category": "motion",
+    "tags": [
+      "转场",
+      "风声",
+      "飞速",
+      "动效"
+    ],
+    "desc": "极速空气呼啸声，适合卡点剪辑、画面切镜和元素飞入。",
+    "sizeBytes": 13620,
+    "sizeStr": "13.3 KB",
+    "durationSec": 0.15,
+    "durationStr": "0.2s"
+  },
+  {
+    "id": "whip",
+    "file": "sounds/whip.wav",
+    "name": "whip.wav",
+    "title": "鞭击利索转场 (Whip)",
+    "enTitle": "Whip Pan Transition",
+    "category": "motion",
+    "tags": [
+      "抽击",
+      "鞭打",
+      "利索",
+      "甩镜"
+    ],
+    "desc": "清脆有力的甩鞭转场，常配合甩动运镜（Whip Pan）。",
+    "sizeBytes": 66732,
+    "sizeStr": "65.2 KB",
+    "durationSec": 0.17,
+    "durationStr": "0.2s"
+  },
+  {
+    "id": "bone-crack",
+    "file": "sounds/bone-crack.wav",
+    "name": "bone-crack.wav",
+    "title": "骨骼断裂重击 (Bone Crack)",
+    "enTitle": "Bone Crack Crunch",
+    "category": "motion",
+    "tags": [
+      "打击",
+      "骨折",
+      "清脆",
+      "肉搏"
+    ],
+    "desc": "清脆逼真的骨骼扭断声，适合格斗、动作和打击感渲染。",
+    "sizeBytes": 188494,
+    "sizeStr": "184.1 KB",
+    "durationSec": 1.07,
+    "durationStr": "1.1s"
+  },
+  {
+    "id": "dramatic-boomer",
+    "file": "sounds/dramatic-boomer.wav",
+    "name": "dramatic-boomer.wav",
+    "title": "戏剧性重低音 (Dramatic Boomer)",
+    "enTitle": "Cinematic Low Boom Hit",
+    "category": "motion",
+    "tags": [
+      "低音炮",
+      "电影感",
+      "悬疑",
+      "重音"
+    ],
+    "desc": "震撼电影级低频沉浸重音打击，打造高能反转氛围。",
+    "sizeBytes": 235206,
+    "sizeStr": "229.7 KB",
+    "durationSec": 1.33,
+    "durationStr": "1.3s"
+  },
+  {
+    "id": "game-jump",
+    "file": "sounds/game-jump.mp3",
+    "name": "game-jump.mp3",
+    "title": "游戏角色跳跃",
+    "enTitle": "Game Jump",
+    "category": "motion",
+    "tags": [
+      "游戏",
+      "跳跃",
+      "卡通",
+      "上扬"
+    ],
+    "desc": "复古动作游戏角色起跳时的轻快上扬音。",
+    "sizeBytes": 13029,
+    "sizeStr": "12.7 KB",
+    "durationSec": 0.52,
+    "durationStr": "0.5s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "poyo-pop",
+    "file": "sounds/poyo-pop.mp3",
+    "name": "poyo-pop.mp3",
+    "title": "ぽよ 弹跳出现",
+    "enTitle": "Poyo Bounce Appear",
+    "category": "motion",
+    "tags": [
+      "弹跳",
+      "出现",
+      "卡通",
+      "萌系"
+    ],
+    "desc": "二次元动画常见的 Q 弹ぽよ登场音，适合角色或元素蹦出。",
+    "sizeBytes": 18254,
+    "sizeStr": "17.8 KB",
+    "durationSec": 0.78,
+    "durationStr": "0.8s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "anime-surprise",
+    "file": "sounds/anime-surprise.mp3",
+    "name": "anime-surprise.mp3",
+    "title": "动漫惊吓一惊",
+    "enTitle": "Anime Surprise",
+    "category": "motion",
+    "tags": [
+      "动漫",
+      "惊吓",
+      "反转",
+      "错愕"
+    ],
+    "desc": "动漫角色大吃一惊时的急促上挑音效，适合反转和错愕表情。",
+    "sizeBytes": 21738,
+    "sizeStr": "21.2 KB",
+    "durationSec": 0.98,
+    "durationStr": "1.0s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "question-mark",
+    "file": "sounds/question-mark.mp3",
+    "name": "question-mark.mp3",
+    "title": "疑问问号冒出",
+    "enTitle": "Question Mark",
+    "category": "motion",
+    "tags": [
+      "疑问",
+      "问号",
+      "动漫",
+      "困惑"
+    ],
+    "desc": "角色头顶冒出问号时的可爱电子音，适合疑惑与悬念时刻。",
+    "sizeBytes": 13551,
+    "sizeStr": "13.2 KB",
+    "durationSec": 0.55,
+    "durationStr": "0.5s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "spring-boing",
+    "file": "sounds/spring-boing.mp3",
+    "name": "spring-boing.mp3",
+    "title": "发条弹簧弹跳",
+    "enTitle": "Spring Boing",
+    "category": "motion",
+    "tags": [
+      "弹簧",
+      "弹跳",
+      "卡通",
+      "发条"
+    ],
+    "desc": "发条上紧后松开的弹簧蹦弹声，卡通弹性十足。",
+    "sizeBytes": 42809,
+    "sizeStr": "41.8 KB",
+    "durationSec": 1.97,
+    "durationStr": "2.0s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "hurry-up",
+    "file": "sounds/hurry-up.mp3",
+    "name": "hurry-up.mp3",
+    "title": "快点快点催促",
+    "enTitle": "Hurry Up",
+    "category": "motion",
+    "tags": [
+      "催促",
+      "紧张",
+      "倒计时",
+      "动漫"
+    ],
+    "desc": "经典动画限时关卡的 hurry up 催促音乐，紧张感拉满。",
+    "sizeBytes": 219279,
+    "sizeStr": "214.1 KB",
+    "durationSec": 12.74,
+    "durationStr": "12.7s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "magic-sparkle",
+    "file": "sounds/magic-sparkle.mp3",
+    "name": "magic-sparkle.mp3",
+    "title": "魔法闪烁施法",
+    "enTitle": "Magic Sparkle",
+    "category": "motion",
+    "tags": [
+      "魔法",
+      "闪烁",
+      "施法",
+      "幻想"
+    ],
+    "desc": "晶莹闪烁的魔法施法音，适合变身、奇迹与梦幻特效。",
+    "sizeBytes": 85127,
+    "sizeStr": "83.1 KB",
+    "durationSec": 4.09,
+    "durationStr": "4.1s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "warp-teleport",
+    "file": "sounds/warp-teleport.mp3",
+    "name": "warp-teleport.mp3",
+    "title": "空间传送扭曲",
+    "enTitle": "Warp Teleport",
+    "category": "motion",
+    "tags": [
+      "传送",
+      "空间",
+      "扭曲",
+      "科幻"
+    ],
+    "desc": "空间移动瞬间的扭曲穿梭音，适合瞬移与超光速特效。",
+    "sizeBytes": 49098,
+    "sizeStr": "47.9 KB",
+    "durationSec": 2.33,
+    "durationStr": "2.3s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "lightning",
+    "file": "sounds/lightning.mp3",
+    "name": "lightning.mp3",
+    "title": "闪电雷鸣",
+    "enTitle": "Lightning Strike",
+    "category": "motion",
+    "tags": [
+      "闪电",
+      "雷鸣",
+      "天气",
+      "震撼"
+    ],
+    "desc": "划破天空的闪电与随后滚滚雷声，适合震撼转场与天气场景。",
+    "sizeBytes": 409568,
+    "sizeStr": "400.0 KB",
+    "durationSec": 20.31,
+    "durationStr": "20.3s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "heavy-punch",
+    "file": "sounds/heavy-punch.mp3",
+    "name": "heavy-punch.mp3",
+    "title": "格斗重击一拳",
+    "enTitle": "Heavy Punch",
+    "category": "motion",
+    "tags": [
+      "格斗",
+      "重击",
+      "打击",
+      "拳拳到肉"
+    ],
+    "desc": "格斗游戏中力量感十足的沉重一拳，适合打击感与命中特效。",
+    "sizeBytes": 8735,
+    "sizeStr": "8.5 KB",
+    "durationSec": 0.24,
+    "durationStr": "0.2s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "swish",
+    "file": "sounds/swish.mp3",
+    "name": "swish.mp3",
+    "title": "挥棍风切空挥",
+    "enTitle": "Swish Whoosh",
+    "category": "motion",
+    "tags": [
+      "风切",
+      "空挥",
+      "挥舞",
+      "转场"
+    ],
+    "desc": "快速挥动手臂或棍棒的破空风声，适合甩镜与蓄力动作。",
+    "sizeBytes": 11178,
+    "sizeStr": "10.9 KB",
+    "durationSec": 0.43,
+    "durationStr": "0.4s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "game-explosion",
+    "file": "sounds/game-explosion.mp3",
+    "name": "game-explosion.mp3",
+    "title": "游戏爆炸轰鸣",
+    "enTitle": "Game Explosion",
+    "category": "motion",
+    "tags": [
+      "爆炸",
+      "轰鸣",
+      "游戏",
+      "破坏"
+    ],
+    "desc": "复古游戏风格的干脆爆炸声，适合击毁、破坏与高能场面。",
+    "sizeBytes": 26613,
+    "sizeStr": "26.0 KB",
+    "durationSec": 1.15,
+    "durationStr": "1.2s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "mouse-click",
+    "file": "sounds/mouse-click.wav",
+    "name": "mouse-click.wav",
+    "title": "鼠标按键点击 (Mouse Click)",
+    "enTitle": "Clean Mouse Click",
+    "category": "ui",
+    "tags": [
+      "UI",
+      "鼠标",
+      "按键",
+      "交互"
+    ],
+    "desc": "高保真清脆鼠标微动开关点击声，UI产品演示必备。",
+    "sizeBytes": 70110,
+    "sizeStr": "68.5 KB",
+    "durationSec": 0.4,
+    "durationStr": "0.4s"
+  },
+  {
+    "id": "switch",
+    "file": "sounds/switch.wav",
+    "name": "switch.wav",
+    "title": "机械开关切换 (Switch Toggle)",
+    "enTitle": "Mechanical Switch Toggle",
+    "category": "ui",
+    "tags": [
+      "开关",
+      "拨动",
+      "触感",
+      "UI"
+    ],
+    "desc": "机械拨动开关的干脆回弹声，适合开关组件与物理交互动效。",
+    "sizeBytes": 58290,
+    "sizeStr": "56.9 KB",
+    "durationSec": 0.33,
+    "durationStr": "0.3s"
+  },
+  {
+    "id": "page-turn",
+    "file": "sounds/page-turn.wav",
+    "name": "page-turn.wav",
+    "title": "翻书声 (Page Turn)",
+    "enTitle": "Paper Page Turn",
+    "category": "ui",
+    "tags": [
+      "书本",
+      "纸张",
+      "真实",
+      "翻页"
+    ],
+    "desc": "逼真细腻的书本翻页沙沙声，适合阅读器、电子杂志动画。",
+    "sizeBytes": 35334,
+    "sizeStr": "34.5 KB",
+    "durationSec": 0.4,
+    "durationStr": "0.4s"
+  },
+  {
+    "id": "shutter-modern",
+    "file": "sounds/shutter-modern.wav",
+    "name": "shutter-modern.wav",
+    "title": "现代电子快门 (Modern Camera)",
+    "enTitle": "Digital Camera Shutter",
+    "category": "ui",
+    "tags": [
+      "相机",
+      "拍照",
+      "快门",
+      "数码"
+    ],
+    "desc": "现代无反相机电子快门咔嚓声，适合截图和相册拍照特效。",
+    "sizeBytes": 43224,
+    "sizeStr": "42.2 KB",
+    "durationSec": 0.49,
+    "durationStr": "0.5s"
+  },
+  {
+    "id": "shutter-old",
+    "file": "sounds/shutter-old.wav",
+    "name": "shutter-old.wav",
+    "title": "老式胶片机械快门 (Vintage Camera)",
+    "enTitle": "Vintage SLR Camera Shutter",
+    "category": "ui",
+    "tags": [
+      "复古",
+      "胶片",
+      "机械快门",
+      "单反"
+    ],
+    "desc": "老式机械反光镜和快门帘开合声，充满复古质感。",
+    "sizeBytes": 55600,
+    "sizeStr": "54.3 KB",
+    "durationSec": 0.31,
+    "durationStr": "0.3s"
+  },
+  {
+    "id": "ding",
+    "file": "sounds/ding.wav",
+    "name": "ding.wav",
+    "title": "清脆完成提示 (Ding)",
+    "enTitle": "Clean Ding Notification",
+    "category": "ui",
+    "tags": [
+      "提示",
+      "完成",
+      "奖励",
+      "清脆"
+    ],
+    "desc": "清脆悦耳的高音叮铃声，适合任务成功、金币进账与提醒。",
+    "sizeBytes": 247038,
+    "sizeStr": "241.2 KB",
+    "durationSec": 1.4,
+    "durationStr": "1.4s"
+  },
+  {
+    "id": "mac-quack",
+    "file": "sounds/mac-quack.wav",
+    "name": "mac-quack.wav",
+    "title": "Mac 经典鸭叫提示 (Mac Quack)",
+    "enTitle": "Apple macOS Quack Alert",
+    "category": "ui",
+    "tags": [
+      "Mac",
+      "苹果系统",
+      "鸭叫",
+      "经典"
+    ],
+    "desc": "苹果 macOS 历史悠久的鸭叫警报音（Quack Sound）。",
+    "sizeBytes": 61610,
+    "sizeStr": "60.2 KB",
+    "durationSec": 0.35,
+    "durationStr": "0.3s"
+  },
+  {
+    "id": "snapchat-notification",
+    "file": "sounds/snapchat-notification.wav",
+    "name": "snapchat-notification.wav",
+    "title": "Snapchat 消息提示音",
+    "enTitle": "Snapchat Ping Notification",
+    "category": "ui",
+    "tags": [
+      "社交",
+      "通知",
+      "私信",
+      "新消息"
+    ],
+    "desc": "Snapchat 应用的新消息到达提示音。",
+    "sizeBytes": 38724,
+    "sizeStr": "37.8 KB",
+    "durationSec": 0.22,
+    "durationStr": "0.2s"
+  },
+  {
+    "id": "loading-lag",
+    "file": "sounds/loading-lag.wav",
+    "name": "loading-lag.wav",
+    "title": "加载卡顿循环 (Loading Lag)",
+    "enTitle": "Buffer Lag Glitch",
+    "category": "ui",
+    "tags": [
+      "卡顿",
+      "转圈",
+      "缓冲",
+      "网络差"
+    ],
+    "desc": "视频卡顿、转圈缓冲时的网络卡死特效音。",
+    "sizeBytes": 475214,
+    "sizeStr": "464.1 KB",
+    "durationSec": 2.69,
+    "durationStr": "2.7s"
+  },
+  {
+    "id": "game-button",
+    "file": "sounds/game-button.mp3",
+    "name": "game-button.mp3",
+    "title": "游戏按键点击",
+    "enTitle": "Retro Game Button",
+    "category": "ui",
+    "tags": [
+      "UI",
+      "游戏",
+      "按键",
+      "点击"
+    ],
+    "desc": "复古游戏机风格的清脆按键音，适合菜单选择与界面交互反馈。",
+    "sizeBytes": 7818,
+    "sizeStr": "7.6 KB",
+    "durationSec": 0.26,
+    "durationStr": "0.3s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "game-select",
+    "file": "sounds/game-select.mp3",
+    "name": "game-select.mp3",
+    "title": "菜单光标选择",
+    "enTitle": "Menu Cursor Select",
+    "category": "ui",
+    "tags": [
+      "UI",
+      "菜单",
+      "光标",
+      "选择"
+    ],
+    "desc": "游戏菜单光标移动与选中确认的轻快电子音。",
+    "sizeBytes": 7805,
+    "sizeStr": "7.6 KB",
+    "durationSec": 0.26,
+    "durationStr": "0.3s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "quiz-correct",
+    "file": "sounds/quiz-correct.mp3",
+    "name": "quiz-correct.mp3",
+    "title": "回答正确叮咚",
+    "enTitle": "Correct Answer Chime",
+    "category": "ui",
+    "tags": [
+      "答题",
+      "正确",
+      "奖励",
+      "综艺"
+    ],
+    "desc": "问答闯关回答正确时的明亮叮咚提示，适合奖励与揭晓时刻。",
+    "sizeBytes": 32778,
+    "sizeStr": "32.0 KB",
+    "durationSec": 1.54,
+    "durationStr": "1.5s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "blip",
+    "file": "sounds/blip.mp3",
+    "name": "blip.mp3",
+    "title": "电子短音提示 Blip",
+    "enTitle": "Electronic Blip",
+    "category": "ui",
+    "tags": [
+      "UI",
+      "电子",
+      "短音",
+      "消息"
+    ],
+    "desc": "经典舰娘式电子短音，一声轻巧的提示反馈，适合通知与点选。",
+    "sizeBytes": 14074,
+    "sizeStr": "13.7 KB",
+    "durationSec": 0.57,
+    "durationStr": "0.6s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "coin-pickup",
+    "file": "sounds/coin-pickup.mp3",
+    "name": "coin-pickup.mp3",
+    "title": "金币拾取进账",
+    "enTitle": "Coin Pickup",
+    "category": "ui",
+    "tags": [
+      "金币",
+      "奖励",
+      "得分",
+      "游戏"
+    ],
+    "desc": "复古 RPG 拾取金币的清脆金属声，适合得分、奖励与成就解锁。",
+    "sizeBytes": 11984,
+    "sizeStr": "11.7 KB",
+    "durationSec": 0.47,
+    "durationStr": "0.5s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "power-up",
+    "file": "sounds/power-up.mp3",
+    "name": "power-up.mp3",
+    "title": "能量提升升级",
+    "enTitle": "Power Up",
+    "category": "ui",
+    "tags": [
+      "升级",
+      "增益",
+      "上升",
+      "游戏"
+    ],
+    "desc": "角色获得增益道具时的上扬音效，表现升级、充能与强化。",
+    "sizeBytes": 14074,
+    "sizeStr": "13.7 KB",
+    "durationSec": 0.57,
+    "durationStr": "0.6s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "power-down",
+    "file": "sounds/power-down.mp3",
+    "name": "power-down.mp3",
+    "title": "能量下降削弱",
+    "enTitle": "Power Down",
+    "category": "ui",
+    "tags": [
+      "减益",
+      "下降",
+      "失败",
+      "游戏"
+    ],
+    "desc": "能量减少或中招削弱时的下行电子音，适合掉血与降级反馈。",
+    "sizeBytes": 11984,
+    "sizeStr": "11.7 KB",
+    "durationSec": 0.47,
+    "durationStr": "0.5s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "button-mash",
+    "file": "sounds/button-mash.mp3",
+    "name": "button-mash.mp3",
+    "title": "密集按键操作",
+    "enTitle": "Pushing Buttons",
+    "category": "ui",
+    "tags": [
+      "UI",
+      "按键",
+      "操作",
+      "机械"
+    ],
+    "desc": "连续快速按动按钮的密集操作声，适合手速操作与设备操控画面。",
+    "sizeBytes": 62705,
+    "sizeStr": "61.2 KB",
+    "durationSec": 2.87,
+    "durationStr": "2.9s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "pipipi-alert",
+    "file": "sounds/pipipi-alert.mp3",
+    "name": "pipipi-alert.mp3",
+    "title": "电子倒计时蜂鸣",
+    "enTitle": "Countdown Pipipi Alert",
+    "category": "ui",
+    "tags": [
+      "提示",
+      "倒计时",
+      "蜂鸣",
+      "电子"
+    ],
+    "desc": "定时装置倒数时的 pipipi 电子蜂鸣，营造紧迫与等待感。",
+    "sizeBytes": 176387,
+    "sizeStr": "172.3 KB",
+    "durationSec": 8.66,
+    "durationStr": "8.7s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "emergency-signal",
+    "file": "sounds/emergency-signal.mp3",
+    "name": "emergency-signal.mp3",
+    "title": "紧急情况警报",
+    "enTitle": "Emergency Signal",
+    "category": "ui",
+    "tags": [
+      "警报",
+      "紧急",
+      "危险",
+      "蜂鸣"
+    ],
+    "desc": "机器发出的紧急情况信号警报，适合危险预警与故障场景。",
+    "sizeBytes": 81738,
+    "sizeStr": "79.8 KB",
+    "durationSec": 3.98,
+    "durationStr": "4.0s",
+    "source": "小森平的免费音效 taira-komori.net"
+  },
+  {
+    "id": "dialogue",
+    "file": "sounds/samples/dialogue.wav",
+    "name": "dialogue.wav",
+    "title": "英文对话测试原声",
+    "enTitle": "Dialogue Sample WAV",
+    "category": "sample",
+    "tags": [
+      "人声对话",
+      "原声",
+      "电影台词"
+    ],
+    "desc": "标准英文双人电影对话原声，用于测试语音清晰度与人声分离。",
+    "sizeBytes": 4787658,
+    "sizeStr": "4.57 MB",
+    "durationSec": 27.14,
+    "durationStr": "27.1s"
+  },
+  {
+    "id": "audio-mp3",
+    "file": "sounds/samples/audio.mp3",
+    "name": "audio.mp3",
+    "title": "标准测试音乐 (MP3)",
+    "enTitle": "Music Sample MP3",
+    "category": "sample",
+    "tags": [
+      "音乐",
+      "MP3",
+      "轻快"
+    ],
+    "desc": "Remotion 官方示例完整音乐音轨（MP3 格式）。",
+    "sizeBytes": 160748,
+    "sizeStr": "157.0 KB",
+    "durationSec": 10.0,
+    "durationStr": "~10s"
+  },
+  {
+    "id": "audio-wav",
+    "file": "sounds/samples/audio.wav",
+    "name": "audio.wav",
+    "title": "标准测试音乐 (WAV 无损)",
+    "enTitle": "Music Sample WAV",
+    "category": "sample",
+    "tags": [
+      "音乐",
+      "无损",
+      "PCM"
+    ],
+    "desc": "Remotion 官方示例完整音乐音轨（无损 PCM WAV 格式）。",
+    "sizeBytes": 1920078,
+    "sizeStr": "1.83 MB",
+    "durationSec": 10.0,
+    "durationStr": "10.0s"
+  },
+  {
+    "id": "audio-flac",
+    "file": "sounds/samples/audio.flac",
+    "name": "audio.flac",
+    "title": "标准测试音乐 (FLAC 无损)",
+    "enTitle": "Music Sample FLAC",
+    "category": "sample",
+    "tags": [
+      "音乐",
+      "FLAC",
+      "高保真"
+    ],
+    "desc": "Remotion 官方示例完整音乐音轨（FLAC 高保真无损压缩格式）。",
+    "sizeBytes": 238029,
+    "sizeStr": "232.5 KB",
+    "durationSec": 10.0,
+    "durationStr": "~10s"
+  }
+]
